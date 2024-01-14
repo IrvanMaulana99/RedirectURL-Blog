@@ -1,6 +1,6 @@
 # redirecturl
 
-Redirect URL To Notion
+Redirect URL To Another Website using Netlify
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7f0bfef0-5e8f-46ee-a371-cf11a0b7c454/deploy-status)](https://app.netlify.com/sites/irvanmaulana/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b15ddaa1-752a-4f2c-89ab-fb044dd76447/deploy-status)](https://app.netlify.com/sites/irvanblog/deploys)
 
